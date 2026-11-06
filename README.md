@@ -1,27 +1,37 @@
 # Hi, I'm Maxwel Muthomi 👋
 
-### Full-Stack Developer | Information Science Student | AI & Technology Enthusiast
+### Backend Developer | API Development & Integration | Information Science Student
 
-I'm an aspiring software engineer from Kenya, currently studying Information Science at Tharaka University.
+I'm an Information Science student at Tharaka University in Kenya, building practical software projects and strengthening my skills in backend engineering, API-driven applications, databases, AI, and cybersecurity.
 
-I enjoy turning ideas into practical software solutions, building web applications, exploring AI integrations, and learning through hands-on development. I use AI-assisted development tools to accelerate my workflow while focusing on understanding the code, reviewing generated changes, debugging, and testing functionality.
+I enjoy understanding how systems communicate, designing reliable application workflows, debugging problems, and turning ideas into working software. I use AI-assisted development tools as part of my workflow, while reviewing, testing, and improving the code.
 
-## 🚀 Technologies & Tools
+## 🧰 Technologies & Tools
 
-**Languages:** JavaScript, Python, SQL  
-**Frontend:** HTML5, CSS3, JavaScript  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MySQL, SQLite  
-**Tools:** Git, GitHub, Visual Studio Code, PowerShell  
-**AI integrations:** Gemini API, Grok API
+- **Languages:** JavaScript, Python, SQL
+- **Backend:** Node.js, Express.js, REST API development
+- **Databases:** MySQL, SQLite
+- **Web:** HTML5, CSS3
+- **Development tools:** Git, GitHub, Visual Studio Code, PowerShell
+- **AI integrations:** Gemini API, Grok API
 
-## 💻 Featured Projects
+## 🔌 Backend & API Engineering Interests
+
+- REST API design and implementation
+- JSON request/response payloads
+- Backend-to-database workflows
+- Data validation and reliable data handling
+- API troubleshooting and debugging
+- Webhooks, SaaS interoperability, and data synchronization — areas I'm actively developing through practical projects
+
+## 🚀 Featured Projects
 
 ### [KenyaMatch](https://github.com/kithinjimaxwel455-max/KenyaMatch)
 A Kenyan dating and compatibility platform under active development.
-- Authentication and profile management
-- Matching, likes, and messaging features
-- REST API and MySQL integration
+- Express.js backend with REST-style routes
+- MySQL-backed application data
+- Authentication, profiles, matching, and messaging workflows
+- Practical experience debugging backend and frontend integration
 
 **Stack:** JavaScript, Node.js, Express.js, MySQL
 
@@ -29,7 +39,7 @@ A Kenyan dating and compatibility platform under active development.
 A Python desktop personal assistant project.
 - Desktop chat interface
 - Local memory and project-tracking functionality
-- AI API integrations
+- Gemini and Grok API integrations
 
 **Stack:** Python, Tkinter, SQLite, Gemini API, Grok API
 
@@ -40,21 +50,22 @@ A digital health platform concept focused on improving access to healthcare serv
 
 *Vitara is an ongoing project; its source repository is not currently linked here.*
 
-## 🎯 Current Learning Goals
+## 🎯 Current Focus
 
-- Strengthening JavaScript, Python, and full-stack engineering
-- Backend architecture, API security, and database design
-- Artificial intelligence and AI engineering
-- Cloud computing and cybersecurity
-- Writing maintainable, tested, and secure software
+- Backend engineering and REST API integration
+- Webhooks, data mapping, and system interoperability
+- Database design and data synchronization
+- AI systems, AI training, and evaluation
+- API security and cybersecurity
+- Writing maintainable, tested, and reliable software
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 - **LinkedIn:** [maxwel-kithinji](https://www.linkedin.com/in/maxwel-kithinji/)
 - **GitHub:** [@kithinjimaxwel455-max](https://github.com/kithinjimaxwel455-max)
 - **Email:** [kithinjimaxwel455@gmail.com](mailto:kithinjimaxwel455@gmail.com)
 
-I'm open to internships, collaborations, learning opportunities, and opportunities to contribute to meaningful software projects.
+Open to internships, collaborations, and opportunities in backend development, API integration, and AI evaluation.
 
 ---
 
